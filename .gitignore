@@ -1,0 +1,7 @@
+*.[ado]
+*.so
+*.swp
+tags
+cscope*
+.ycm_extra_conf.py*
+v
